@@ -10,4 +10,14 @@ app.MapGet("/AddHeader1", (HttpResponse response) => {
     return "Leonardo";
 });
 
+app.MapPost("/salvar", (Product product) => {
+    return product.Code + " - " + product.Nome;
+});
+
 app.Run();
+
+public class Product {
+    public string Code { get; set; }
+
+    public string Nome { get; set; }
+}
