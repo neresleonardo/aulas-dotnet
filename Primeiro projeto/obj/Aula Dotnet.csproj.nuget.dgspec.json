@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Léo\\Desktop\\Aula Dotnet\\Aula Dotnet.csproj": {}
+    "C:\\Users\\Léo\\Desktop\\Aulas\\aulas-dotnet\\Primeiro projeto\\Aula Dotnet.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Léo\\Desktop\\Aula Dotnet\\Aula Dotnet.csproj": {
+    "C:\\Users\\Léo\\Desktop\\Aulas\\aulas-dotnet\\Primeiro projeto\\Aula Dotnet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Léo\\Desktop\\Aula Dotnet\\Aula Dotnet.csproj",
+        "projectUniqueName": "C:\\Users\\Léo\\Desktop\\Aulas\\aulas-dotnet\\Primeiro projeto\\Aula Dotnet.csproj",
         "projectName": "Aula Dotnet",
-        "projectPath": "C:\\Users\\Léo\\Desktop\\Aula Dotnet\\Aula Dotnet.csproj",
+        "projectPath": "C:\\Users\\Léo\\Desktop\\Aulas\\aulas-dotnet\\Primeiro projeto\\Aula Dotnet.csproj",
         "packagesPath": "C:\\Users\\Léo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Léo\\Desktop\\Aula Dotnet\\obj\\",
+        "outputPath": "C:\\Users\\Léo\\Desktop\\Aulas\\aulas-dotnet\\Primeiro projeto\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Léo\\AppData\\Roaming\\NuGet\\NuGet.Config"
